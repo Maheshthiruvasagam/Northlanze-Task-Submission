@@ -1,11 +1,11 @@
 /**
  * Northlanze Technologies - JavaScript Assessment
  * JavaScript ES6+
- *
+
  * Run with:
  *   node solutions.js
- *
- * Note: Review and understand each solution before submitting.
+ 
+ 
  */
 
 // =====================================================
